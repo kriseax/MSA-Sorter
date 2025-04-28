@@ -1,0 +1,2 @@
+Mac: pyinstaller msa_sorter.py --onefile 
+PC: python -m PyInstaller msa_sorter.py --onefile 
